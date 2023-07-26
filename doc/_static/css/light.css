@@ -89,3 +89,7 @@
     --btn-neutral-hover-background-color: #e5ebeb;
     --footer-color: #808080;
 }
+
+.dark-only {
+    display : none !important;
+}

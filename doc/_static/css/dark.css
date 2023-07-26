@@ -91,3 +91,11 @@
     --btn-neutral-hover-background-color: #505050;
     --footer-color: #aaa;
 }
+
+figure.invertible img {
+    filter: invert(0.8);
+}
+
+.light-only {
+    display: none !important;
+}

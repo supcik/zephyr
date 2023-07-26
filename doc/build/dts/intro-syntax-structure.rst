@@ -120,7 +120,7 @@ Here's a tree representing the same example, but with real-world node
 names and properties you might see when working with I2C devices.
 
 .. figure:: zephyr_dt_i2c_example.png
-   :figclass: align-center
+   :figclass: align-center invertible
 
    I2C devicetree example with real-world names and properties.
    Node names are at the top of each node with a gray background.

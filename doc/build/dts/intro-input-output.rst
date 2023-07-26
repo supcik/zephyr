@@ -7,7 +7,10 @@ This section describes the input and output files shown in the figure in
 :ref:`devicetree-scope-purpose` in more detail.
 
 .. figure:: zephyr_dt_inputs_outputs.svg
-   :figclass: align-center
+   :figclass: align-center light-only
+
+.. figure:: zephyr_dt_inputs_outputs_dark.svg
+   :figclass: align-center dark-only
 
    Devicetree input (green) and output (yellow) files
 
